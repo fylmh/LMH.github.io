@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>LMH个人网站</title>
+</head>
+<body>
+	<figure>
+	<figcaption>本地图片</figcaption>
+	<img src="我的.jpg">
+	</figure>
+	<figure>
+		<figcaption>网络图像标题</figcaption>
+		<img src="http://imgsrc.baidu.com/forum/pic/item/33235343fbf2b211ab4bbab6ca8065380dd78eff.jpg">
+	</figure>
+</body>
+</html>
